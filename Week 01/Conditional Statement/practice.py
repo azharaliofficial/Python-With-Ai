@@ -1,4 +1,4 @@
-age = 17
+age = 30
 score = 49
 
 if age<18:
