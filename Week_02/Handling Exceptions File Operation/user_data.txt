@@ -1,0 +1,12 @@
+Name:azhar ali
+Age:20
+City:skardu
+
+Name:zahid ali
+Age:22
+City:fasialabad
+
+Name:Ali Cho 
+Age:23
+City:skardu
+
