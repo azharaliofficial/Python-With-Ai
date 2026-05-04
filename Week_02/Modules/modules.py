@@ -7,3 +7,4 @@ print(sqrt(81))
 import my_module
 my_module.display()
 my_module.calculate()
+my_module.get(4,5)
